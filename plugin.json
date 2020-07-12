@@ -1,0 +1,8 @@
+{
+  "version": "1.0",
+  "title": "Open Graph Cards",
+  "description": "This plugin adds Open Graph meta tags to create social media and iMessage previews for posts.",
+  "includes": [
+    "open_graph_meta.html"
+  ]
+}
